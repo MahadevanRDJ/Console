@@ -1,7 +1,7 @@
 # CAR PARKING MANAGEMENT
 
       A parking management system refers to the innovative technologies providing solutions in the parking industry. The core idea behind any 
-parking management system is self-explanatory.
+      parking management system is self-explanatory.
       
       It’s a system that helps people, companies, and organizations to manage their parking spaces.
       
