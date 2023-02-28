@@ -1,6 +1,6 @@
 
 
-                                                       # BANK MANAGEMENT APPLICATION
+# BANK MANAGEMENT APPLICATION
     
     * In this application, we added some basic functionalities of a bank account like a deposit of amount, withdrawal of amount, etc.
     * Initially, the program accepts the number of customers we need to add and adds the customer and account details accordingly. Further, it displays the series 
