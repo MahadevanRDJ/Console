@@ -7,7 +7,6 @@
     Description:
         This module is the first step to use this application.
         It is mainly responsible for checking the login credetials and checking the user details.
-        Also, it has manager functions to check, view and allowing the access to the new user.
     Uses : 
         1. To login admin.
         2. To Create a new user.
